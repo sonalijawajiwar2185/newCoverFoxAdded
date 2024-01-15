@@ -1,0 +1,5 @@
+dataproviderUse\NewTestDataProvider.class
+TestNgTestClassPackage\Validate_testcases_CoverFox2_for_PincodeField.class
+dataproviderUse\FbDataProviderClass.class
+parametersStudy\UseOfParameters.class
+TestNgTestClassPackage\Validate_testcases_CoverFox.class
