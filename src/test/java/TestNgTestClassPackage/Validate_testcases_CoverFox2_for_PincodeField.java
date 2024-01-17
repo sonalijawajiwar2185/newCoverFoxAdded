@@ -90,6 +90,7 @@ public class Validate_testcases_CoverFox2_for_PincodeField extends BaseClassforC
 	  String pincode = addressDetailsInclude.select_pincode1(UtilityClassCommonMethodsUse.ReadDataFromPropertiesClass("pincode"));
       SoftAssert soft=new SoftAssert();
       soft.assertEquals("411003",pincode,"Pincode is not mathching,Test case Failed" );
+      soft.assertAll();
       Reporter.log("Test Case Passed", true);
       logger.info("Test Case passed");
        

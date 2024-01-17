@@ -77,21 +77,21 @@ public class Validate_testcases_CoverFox extends BaseClassforCoverFox
 	  Reporter.log("On Result Page", true);
 	  logger.info("On Result Page");
 	  int textResult = result.Text_to_check_result();
-	  Thread.sleep(1000);
+	  Thread.sleep(4000);
 
 	  Reporter.log("text Result :"+textResult, true);
 	  logger.info("Text Result");
 	  int bannerResult = result.banners_to_check_result();
-	  Thread.sleep(1000);
+	  Thread.sleep(4000);
 
 	  Reporter.log("text Result :"+bannerResult, true);
 	  logger.info("text Result :\"+bannerResult");
-     // SoftAssert soft=new SoftAssert();
-	 // soft.assertEquals(textResult, bannerResult,"Text result are not mathching with Banner Result,Test case failed ");
-	  Assert.assertEquals(textResult,bannerResult,"Text result are not mathching with Banner Result,Test case failed ");
+      SoftAssert soft=new SoftAssert();
+	  soft.assertEquals(textResult, bannerResult,"Text result are not mathching with Banner Result,Test case failed ");
+	 // Assert.assertEquals(textResult,bannerResult,"Text result are not mathching with Banner Result,Test case failed ");
 	  Reporter.log("Test case passed", true);
 	  logger.info("Test Case Passed");
-       //soft.assertAll();	
+     soft.assertAll();	
   }
  @Test(enabled = false)
  public void SearchsortPlanText() throws InterruptedException

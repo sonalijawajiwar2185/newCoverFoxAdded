@@ -14,10 +14,11 @@
           <configuration>
 			  <suiteXmlFiles>
 				  <suiteXmlFile>
-					  testngdataprovider.xml
-           <!--- testngValidateBoth.xml-->           
-                    </suiteXmlFile>	  
-			  </suiteXmlFiles>
+                  
+            testngpin.xml  
+            				  </suiteXmlFile>
+        
+                   </suiteXmlFiles>
 		  </configuration>
         </plugin>
         <!-- Another Maven Plugin-->
