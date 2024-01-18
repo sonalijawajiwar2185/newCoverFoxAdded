@@ -16,8 +16,8 @@
 				  <suiteXmlFile>
                   
             testngpin.xml  
-            				  </suiteXmlFile>
-        
+      	  </suiteXmlFile>
+      
                    </suiteXmlFiles>
 		  </configuration>
         </plugin>
