@@ -5,9 +5,6 @@
       <![CDATA[Launching Browser]]>
     </line>
     <line>
-      <![CDATA[Launching Browser]]>
-    </line>
-    <line>
       <![CDATA[On home Page]]>
     </line>
     <line>
@@ -17,31 +14,37 @@
       <![CDATA[On members details Page]]>
     </line>
     <line>
-      <![CDATA[Test Case passed]]>
+      <![CDATA[Text On Result Page]]>
     </line>
     <line>
-      <![CDATA[Test Case had been Passed]]>
+      <![CDATA[text Result :49]]>
+    </line>
+    <line>
+      <![CDATA[Check Banners Count ]]>
+    </line>
+    <line>
+      <![CDATA[text Result :49]]>
+    </line>
+    <line>
+      <![CDATA[Test case passed]]>
     </line>
     <line>
       <![CDATA[closing Browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-01-18T16:19:41 IST" name="Suite" finished-at="2024-01-18T16:20:09 IST" duration-ms="28166">
+  <suite started-at="2024-01-18T18:05:34 IST" name="Suite" finished-at="2024-01-18T18:05:58 IST" duration-ms="24442">
     <groups>
     </groups>
-    <test started-at="2024-01-18T16:19:41 IST" name="Test" finished-at="2024-01-18T16:20:09 IST" duration-ms="28166">
-      <class name="TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField@6b927fb]" started-at="2024-01-18T16:19:41 IST" name="launchBrowser" finished-at="2024-01-18T16:20:03 IST" duration-ms="22260" status="PASS">
+    <test started-at="2024-01-18T18:05:34 IST" name="Test" finished-at="2024-01-18T18:05:58 IST" duration-ms="24442">
+      <class name="TestNgTestClassPackage.Validate_testcases_CoverFox">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox@3e58a80e]" started-at="2024-01-18T18:05:34 IST" name="launchBrowser" finished-at="2024-01-18T18:05:40 IST" duration-ms="6593" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Launching Browser]]>
-            </line>
             <line>
               <![CDATA[Launching Browser]]>
             </line>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="callingMethodsOfClass()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField@6b927fb]" started-at="2024-01-18T16:20:03 IST" name="callingMethodsOfClass" finished-at="2024-01-18T16:20:07 IST" duration-ms="4369" status="PASS">
+        <test-method is-config="true" signature="callingMethodsOfClass()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox@3e58a80e]" started-at="2024-01-18T18:05:40 IST" name="callingMethodsOfClass" finished-at="2024-01-18T18:05:44 IST" duration-ms="3903" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[On home Page]]>
@@ -52,26 +55,35 @@
             <line>
               <![CDATA[On members details Page]]>
             </line>
-            <line>
-              <![CDATA[Test Case passed]]>
-            </line>
           </reporter-output>
         </test-method> <!-- callingMethodsOfClass -->
-        <test-method signature="ValidatePincode()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField@6b927fb]" started-at="2024-01-18T16:20:07 IST" name="ValidatePincode" finished-at="2024-01-18T16:20:08 IST" duration-ms="189" status="PASS">
+        <test-method signature="validateResultNumber()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox@3e58a80e]" started-at="2024-01-18T18:05:44 IST" name="validateResultNumber" finished-at="2024-01-18T18:05:57 IST" duration-ms="12695" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Test Case had been Passed]]>
+              <![CDATA[Text On Result Page]]>
+            </line>
+            <line>
+              <![CDATA[text Result :49]]>
+            </line>
+            <line>
+              <![CDATA[Check Banners Count ]]>
+            </line>
+            <line>
+              <![CDATA[text Result :49]]>
+            </line>
+            <line>
+              <![CDATA[Test case passed]]>
             </line>
           </reporter-output>
-        </test-method> <!-- ValidatePincode -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField@6b927fb]" started-at="2024-01-18T16:20:08 IST" name="closeBrowser" finished-at="2024-01-18T16:20:09 IST" duration-ms="1268" status="PASS">
+        </test-method> <!-- validateResultNumber -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox@3e58a80e]" started-at="2024-01-18T18:05:57 IST" name="closeBrowser" finished-at="2024-01-18T18:05:58 IST" duration-ms="1213" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[closing Browser]]>
             </line>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField -->
+      </class> <!-- TestNgTestClassPackage.Validate_testcases_CoverFox -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

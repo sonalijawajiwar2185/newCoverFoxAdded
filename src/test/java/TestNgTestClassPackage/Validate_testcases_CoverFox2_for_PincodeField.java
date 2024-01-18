@@ -49,8 +49,7 @@ public class Validate_testcases_CoverFox2_for_PincodeField extends BaseClassforC
        result=new coverFoxHealthPlanResult(driver);	  
 	  
 	  Reporter.log("Launching Browser", true);
-	  driver.get("https://www.coverfox.com/");
-	  driver.manage().window().maximize();
+	  //driver.manage().window().maximize();
 	  //use commonMethodClass for Implicit Wait
 	  UtilityClassCommonMethodsUse.waituse(driver, 5);
   }  

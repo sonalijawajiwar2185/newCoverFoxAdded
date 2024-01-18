@@ -6,14 +6,14 @@
   </listeners>
   <test thread-count="5" name="Test(failed)" verbose="0">
     <classes>
-      <class name="TestNgTestClassPackage.Validate_testcases_CoverFox">
+      <class name="TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField">
         <methods>
-          <include name="callingMethodsOfClass"/>
           <include name="launchBrowser"/>
           <include name="closeBrowser"/>
-          <include name="validateResultNumber"/>
+          <include name="ValidatePincode"/>
+          <include name="callingMethodsOfClass"/>
         </methods>
-      </class> <!-- TestNgTestClassPackage.Validate_testcases_CoverFox -->
+      </class> <!-- TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

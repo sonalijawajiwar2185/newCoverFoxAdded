@@ -29,8 +29,7 @@
 			  <suiteXmlFiles>
 				  <suiteXmlFile>
                   
-                  testngCoverFoxPinCode.xml   
-                     	  </suiteXmlFile>
+                   testngRES.xml                     	  </suiteXmlFile>
       
                    </suiteXmlFiles>
                   
