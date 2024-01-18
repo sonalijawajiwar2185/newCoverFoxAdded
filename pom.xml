@@ -29,7 +29,8 @@
 			  <suiteXmlFiles>
 				  <suiteXmlFile>
                   
-                   testngRES.xml                     	  </suiteXmlFile>
+                   testngRES.xml   
+                 	  </suiteXmlFile>
       
                    </suiteXmlFiles>
                   

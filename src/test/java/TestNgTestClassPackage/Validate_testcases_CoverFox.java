@@ -64,7 +64,7 @@ public class Validate_testcases_CoverFox extends BaseClassforCoverFox
 	  memberDetails.select_age(UtilityClassCommonMethodsUse.excelUse("coverFox", 0, 0));
 	//  memberDetails.select_age(UtilityClassCommonMethodsUse.ReadDataFromPropertiesClass("age"));
 	  memberDetails.click_healthPlanNextButton();
-	  Thread.sleep(500);
+	  Thread.sleep(2000);
      addressDetailsInclude.select_pincode1(UtilityClassCommonMethodsUse.excelUse("coverFox", 3, 0));
      // addressDetailsInclude.select_pincode1(UtilityClassCommonMethodsUse.ReadDataFromPropertiesClass("pincode"));
        addressDetailsInclude.select_mobile_number1(UtilityClassCommonMethodsUse.excelUse("coverFox", 3, 1));
