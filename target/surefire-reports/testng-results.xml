@@ -20,18 +20,18 @@
       <![CDATA[Test Case passed]]>
     </line>
     <line>
-      <![CDATA[Test Case Passed]]>
+      <![CDATA[Test Case had been Passed]]>
     </line>
     <line>
       <![CDATA[closing Browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-01-17T19:27:47 IST" name="Suite" finished-at="2024-01-17T19:27:59 IST" duration-ms="12122">
+  <suite started-at="2024-01-18T16:19:41 IST" name="Suite" finished-at="2024-01-18T16:20:09 IST" duration-ms="28166">
     <groups>
     </groups>
-    <test started-at="2024-01-17T19:27:47 IST" name="Test" finished-at="2024-01-17T19:27:59 IST" duration-ms="12122">
+    <test started-at="2024-01-18T16:19:41 IST" name="Test" finished-at="2024-01-18T16:20:09 IST" duration-ms="28166">
       <class name="TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField@6b927fb]" started-at="2024-01-17T19:27:47 IST" name="launchBrowser" finished-at="2024-01-17T19:27:55 IST" duration-ms="7872" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField@6b927fb]" started-at="2024-01-18T16:19:41 IST" name="launchBrowser" finished-at="2024-01-18T16:20:03 IST" duration-ms="22260" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Launching Browser]]>
@@ -41,7 +41,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="callingMethodsOfClass()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField@6b927fb]" started-at="2024-01-17T19:27:55 IST" name="callingMethodsOfClass" finished-at="2024-01-17T19:27:58 IST" duration-ms="3027" status="PASS">
+        <test-method is-config="true" signature="callingMethodsOfClass()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField@6b927fb]" started-at="2024-01-18T16:20:03 IST" name="callingMethodsOfClass" finished-at="2024-01-18T16:20:07 IST" duration-ms="4369" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[On home Page]]>
@@ -57,14 +57,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- callingMethodsOfClass -->
-        <test-method signature="ValidatePincode()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField@6b927fb]" started-at="2024-01-17T19:27:58 IST" name="ValidatePincode" finished-at="2024-01-17T19:27:58 IST" duration-ms="59" status="PASS">
+        <test-method signature="ValidatePincode()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField@6b927fb]" started-at="2024-01-18T16:20:07 IST" name="ValidatePincode" finished-at="2024-01-18T16:20:08 IST" duration-ms="189" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Test Case Passed]]>
+              <![CDATA[Test Case had been Passed]]>
             </line>
           </reporter-output>
         </test-method> <!-- ValidatePincode -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField@6b927fb]" started-at="2024-01-17T19:27:58 IST" name="closeBrowser" finished-at="2024-01-17T19:27:59 IST" duration-ms="1104" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField@6b927fb]" started-at="2024-01-18T16:20:08 IST" name="closeBrowser" finished-at="2024-01-18T16:20:09 IST" duration-ms="1268" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[closing Browser]]>

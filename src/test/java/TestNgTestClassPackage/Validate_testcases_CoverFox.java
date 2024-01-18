@@ -74,8 +74,8 @@ public class Validate_testcases_CoverFox extends BaseClassforCoverFox
   @Test
   public void validateResultNumber() throws InterruptedException, IOException 
   {
-	  Reporter.log("On Result Page", true);
-	  logger.info("On Result Page");
+	  Reporter.log("Text On Result Page", true);
+	  logger.info("Text On Result Page");
 	  int textResult = result.Text_to_check_result();
 	  Thread.sleep(4000);
 

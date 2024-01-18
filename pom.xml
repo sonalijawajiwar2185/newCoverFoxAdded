@@ -29,8 +29,8 @@
 			  <suiteXmlFiles>
 				  <suiteXmlFile>
                   
-            testngpin.xml  
-      	  </suiteXmlFile>
+                  testngCoverFoxPinCode.xml   
+                     	  </suiteXmlFile>
       
                    </suiteXmlFiles>
                   

@@ -91,7 +91,7 @@ public class Validate_testcases_CoverFox2_for_PincodeField extends BaseClassforC
       SoftAssert soft=new SoftAssert();
       soft.assertEquals("411003",pincode,"Pincode is not mathching,Test case Failed" );
       soft.assertAll();
-      Reporter.log("Test Case Passed", true);
+      Reporter.log("Test Case had been Passed", true);
       logger.info("Test Case passed");
        
   }
