@@ -89,7 +89,7 @@ public class Validate_testcases_CoverFox extends BaseClassforCoverFox
       SoftAssert soft=new SoftAssert();
 	  soft.assertEquals(textResult, bannerResult,"Text result are not mathching with Banner Result,Test case failed ");
 	 // Assert.assertEquals(textResult,bannerResult,"Text result are not mathching with Banner Result,Test case failed ");
-	  Reporter.log("Test case passed", true);
+	  Reporter.log("Test case passed is Shown", true);
 	  logger.info("Test Case Passed");
      soft.assertAll();	
   }
