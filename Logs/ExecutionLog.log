@@ -298,3 +298,20 @@
 2024-01-18 18:18:07,574 - CoverFoxInsurance -INFO - Text Result
 2024-01-18 18:18:11,639 - CoverFoxInsurance -INFO - text Result :"+bannerResult
 2024-01-18 18:18:11,659 - CoverFoxInsurance -INFO - Test Case Passed
+2024-01-19 15:52:11,984 - CoverFoxInsurance -FATAL - On home Page
+2024-01-19 15:52:13,288 - CoverFoxInsurance -FATAL - On Health Page
+2024-01-19 15:52:13,935 - CoverFoxInsurance -INFO - On members details Page
+2024-01-19 15:52:21,258 - CoverFoxInsurance -INFO - test case passed
+2024-01-19 15:52:21,276 - CoverFoxInsurance -FATAL - On home Page
+2024-01-19 15:57:06,446 - CoverFoxInsurance -FATAL - On home Page
+2024-01-19 15:57:07,464 - CoverFoxInsurance -FATAL - On Health Page
+2024-01-19 15:57:08,053 - CoverFoxInsurance -INFO - On members details Page
+2024-01-19 15:57:14,908 - CoverFoxInsurance -INFO - test case passed
+2024-01-19 15:57:14,929 - CoverFoxInsurance -FATAL - On home Page
+2024-01-19 22:52:56,853 - CoverFoxInsurance -FATAL - On home Page
+2024-01-19 22:52:57,403 - CoverFoxInsurance -FATAL - On Health Page
+2024-01-19 22:52:57,972 - CoverFoxInsurance -INFO - On members details Page
+2024-01-19 22:53:02,096 - CoverFoxInsurance -INFO - Text On Result Page
+2024-01-19 22:53:11,440 - CoverFoxInsurance -INFO - Text Result
+2024-01-19 22:53:15,469 - CoverFoxInsurance -INFO - text Result :"+bannerResult
+2024-01-19 22:53:15,478 - CoverFoxInsurance -INFO - Test Case Passed
