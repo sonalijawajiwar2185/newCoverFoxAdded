@@ -5,10 +5,8 @@
 		<listener class-name="ListenersStudy.ExtentReporterNG"/>
 	</listeners>
   <test thread-count="5" name="Test">
-	  <parameter name="fName" value="Sonali"/>
-	  <parameter name="sName" value="Jawajiwar"/>
-      <parameter name="moNum" value="6565656565"/>
-
+    <classes>
+      <class name="TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField"/>
+    </classes>
   </test> <!-- Test -->
- 
 </suite> <!-- Suite -->

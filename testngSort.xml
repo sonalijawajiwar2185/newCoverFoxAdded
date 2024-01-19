@@ -3,8 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="TestNgTestClassPackage.Validate_testcases_CoverFox2_for_PincodeField"/>
-      <class name="TestNgTestClassPackage.Validate_testcases_CoverFox"/>
+      <class name="TestNgTestClassPackage.Validate_test_Case_SORTPlanField"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

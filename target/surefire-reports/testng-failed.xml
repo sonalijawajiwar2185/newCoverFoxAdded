@@ -3,11 +3,14 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
   <test thread-count="5" name="Test(failed)" verbose="0">
     <classes>
-      <class name="dataproviderUse.NewTestDataProvider">
+      <class name="TestNgTestClassPackage.Validate_test_Case_SORTPlanField">
         <methods>
-          <include name="faceBookEntry" invocation-numbers="0 1 2"/>
+          <include name="SearchsortPlanText"/>
+          <include name="launchBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="callingMethodsOfClass"/>
         </methods>
-      </class> <!-- dataproviderUse.NewTestDataProvider -->
+      </class> <!-- TestNgTestClassPackage.Validate_test_Case_SORTPlanField -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
